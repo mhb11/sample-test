@@ -1,3 +1,8 @@
+## Getting started
+
+Create a [fork](https://docs.github.com/en/get-started/quickstart/fork-a-repo) of this [repository](https://github.com/nabeel-raresense/sample-test), and [clone](https://docs.github.com/en/get-started/quickstart/fork-a-repo#cloning-your-forked-repository) your private forked repository.
+
+
 ## Table of contents
 
 - [Overview](#overview)
