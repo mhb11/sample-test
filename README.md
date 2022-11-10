@@ -1,6 +1,6 @@
 ## Getting started
 
-Please use this repo as template and add "nabeel-raresense" or "nabeel.raresense@gmail.com" as collaborator on your private repository. 
+Please use this repo as template and add "shahzAlKhan" as collaborator on your private repository. 
 
 
 ## Table of contents
@@ -32,7 +32,7 @@ Users should be able to:
 - [React](https://reactjs.org/) - JS library
 - [Next.js](https://nextjs.org/) - React framework
 - [Styled Components](https://styled-components.com/) - For styles
-- **Bonus** [Storybook](https://storybook.js.org/) - For Component Driven Development
+- [Storybook](https://storybook.js.org/) - For Component Driven Development
 
 ### Continued development
 
@@ -41,10 +41,5 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 ### Useful resources
 
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
+- [Example resource 1](https://www.example.com) - This helped me for XYZ reason.
 - [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
-
-
-## Acknowledgments
-
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
